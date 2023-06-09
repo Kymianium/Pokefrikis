@@ -1,0 +1,5 @@
+* Cada día, obtienes 100 monedas.
+* Un paquete cuesta 70 monedas.
+* Puedes vender cartas que tengas repetidas por dos monedas.
+* Puedes "dar" tus cartas a otro usuario. Cuando mantienes la carta pulsada, se te despliega un menú con dos opciones ("Vender", "Dar"), y si le das a "Dar" se te abre una lista de los usuarios y decides a quién dársela.
+* Si seleccionas tus monedas, puedes darle a "Dar" para darle monedas a alguien.
